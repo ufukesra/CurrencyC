@@ -199,8 +199,8 @@ public class CurrencyPage  {
                         .queryParam("sell_currency","GBP")
                         .queryParam("buy_currency","USD")
                         .queryParam("amount",ConfigurationReader.getProperty("sell_amount"))
-                        .queryParam("fixed_side","buy") ///should be sell side not buy side
-                        .header("X-Auth-Token",token).
+                        .queryParam("fixed_side","sell")
+                        .header("X-Auth-Toke",token). // should be Token not Toke
                         when()
                         .get("/rates/detailed").prettyPeek();
 

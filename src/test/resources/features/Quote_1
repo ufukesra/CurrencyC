@@ -1,0 +1,16 @@
+{
+    "settlement_cut_off_time": "2020-06-09T15:30:00Z",
+    "currency_pair": "GBPUSD",
+    "client_buy_currency": "USD",
+    "client_sell_currency": "GBP",
+    "client_buy_amount": "14099.00",
+    "client_sell_amount": "10000.00",
+    "fixed_side": "sell",
+    "client_rate": "1.4099",
+    "partner_rate": null,
+    "core_rate": "1.4099",
+    "deposit_required": false,
+    "deposit_amount": "0.0",
+    "deposit_currency": "GBP",
+    "mid_market_rate": "1.4100"
+}

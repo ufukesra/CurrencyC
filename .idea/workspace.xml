@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0d7ba10-8cab-460c-b161-ec653c3bd588" name="Default Changelist" comment="">
+    <list default="true" id="b0d7ba10-8cab-460c-b161-ec653c3bd588" name="Default Changelist" comment="CurrencyPage page created">
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Quote_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/balances" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/convert" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/token" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/currencycloud/pages/CurrencyPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/currencycloud/pages/CurrencyPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/currencycloud/runner/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/currencycloud/runner/CukesRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/currencycloud/stepDefinitions/TaskStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/currencycloud/stepDefinitions/TaskStepDefinition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/currencycloud/utilities/ConfigurationReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/currencycloud/utilities/ConfigurationReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/task.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/task.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +43,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/features" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -86,32 +87,48 @@
       <option name="presentableId" value="Default" />
       <updated>1591323012556</updated>
     </task>
+    <task id="LOCAL-00001" summary="CurrencyPage page created">
+      <created>1591345509670</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591345509670</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="CurrencyPage page created" />
+    <option name="LAST_COMMIT_MESSAGE" value="CurrencyPage page created" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="101" width="813" height="666" key="#Project_Structure" timestamp="1591323948899">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="320" y="101" width="813" height="666" key="#Project_Structure/0.23.1440.822/-254.-1057.1920.1057@0.23.1440.822" timestamp="1591323948899" />
-    <state width="1398" height="316" key="GridCell.Tab.0.bottom" timestamp="1591329182365">
+    <state x="335" y="39" key="CommitChangelistDialog2" timestamp="1591345535502">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state width="1398" height="316" key="GridCell.Tab.0.bottom/0.23.1440.822/-254.-1057.1920.1057@0.23.1440.822" timestamp="1591329182365" />
+    <state x="335" y="39" key="CommitChangelistDialog2/0.23.1440.822/-254.-1057.1920.1057@0.23.1440.822" timestamp="1591345535502" />
+    <state width="1398" height="268" key="GridCell.Tab.0.bottom" timestamp="1591345515737">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="268" key="GridCell.Tab.0.bottom/0.23.1440.822/-254.-1057.1920.1057@0.23.1440.822" timestamp="1591345515737" />
     <state width="1398" height="442" key="GridCell.Tab.0.bottom/0.23.1440.877/-254.-1057.1920.1002@0.23.1440.877" timestamp="1591326353877" />
-    <state width="1398" height="316" key="GridCell.Tab.0.center" timestamp="1591329182364">
+    <state width="1398" height="268" key="GridCell.Tab.0.center" timestamp="1591345515736">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state width="1398" height="316" key="GridCell.Tab.0.center/0.23.1440.822/-254.-1057.1920.1057@0.23.1440.822" timestamp="1591329182364" />
+    <state width="1398" height="268" key="GridCell.Tab.0.center/0.23.1440.822/-254.-1057.1920.1057@0.23.1440.822" timestamp="1591345515736" />
     <state width="1398" height="442" key="GridCell.Tab.0.center/0.23.1440.877/-254.-1057.1920.1002@0.23.1440.877" timestamp="1591326353876" />
-    <state width="1398" height="316" key="GridCell.Tab.0.left" timestamp="1591329182364">
+    <state width="1398" height="268" key="GridCell.Tab.0.left" timestamp="1591345515735">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state width="1398" height="316" key="GridCell.Tab.0.left/0.23.1440.822/-254.-1057.1920.1057@0.23.1440.822" timestamp="1591329182364" />
+    <state width="1398" height="268" key="GridCell.Tab.0.left/0.23.1440.822/-254.-1057.1920.1057@0.23.1440.822" timestamp="1591345515735" />
     <state width="1398" height="442" key="GridCell.Tab.0.left/0.23.1440.877/-254.-1057.1920.1002@0.23.1440.877" timestamp="1591326353876" />
-    <state width="1398" height="316" key="GridCell.Tab.0.right" timestamp="1591329182365">
+    <state width="1398" height="268" key="GridCell.Tab.0.right" timestamp="1591345515736">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state width="1398" height="316" key="GridCell.Tab.0.right/0.23.1440.822/-254.-1057.1920.1057@0.23.1440.822" timestamp="1591329182365" />
+    <state width="1398" height="268" key="GridCell.Tab.0.right/0.23.1440.822/-254.-1057.1920.1057@0.23.1440.822" timestamp="1591345515736" />
     <state width="1398" height="442" key="GridCell.Tab.0.right/0.23.1440.877/-254.-1057.1920.1002@0.23.1440.877" timestamp="1591326353877" />
     <state x="215" y="-917" key="SettingsEditor" timestamp="1591323234839">
       <screen x="-254" y="-1057" width="1920" height="1057" />

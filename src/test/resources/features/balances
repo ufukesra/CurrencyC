@@ -1,0 +1,38 @@
+{
+    "balances": [
+        {
+            "id": "57bfd16e-cc41-4c7a-9084-3f3538718c4f",
+            "account_id": "77364056-7461-4d82-8838-496cf2627476",
+            "currency": "EUR",
+            "amount": "100000.00",
+            "created_at": "2020-06-05T03:59:53+00:00",
+            "updated_at": "2020-06-05T03:59:54+00:00"
+        },
+        {
+            "id": "ab1bc2a0-21f1-43a1-94c6-04c89410938a",
+            "account_id": "77364056-7461-4d82-8838-496cf2627476",
+            "currency": "GBP",
+            "amount": "100000.00",
+            "created_at": "2020-06-05T03:59:53+00:00",
+            "updated_at": "2020-06-05T03:59:53+00:00"
+        },
+        {
+            "id": "b7750df0-81c9-4b8f-a08d-085d9dab45a0",
+            "account_id": "77364056-7461-4d82-8838-496cf2627476",
+            "currency": "USD",
+            "amount": "100000.00",
+            "created_at": "2020-06-05T03:59:53+00:00",
+            "updated_at": "2020-06-05T03:59:53+00:00"
+        }
+    ],
+    "pagination": {
+        "total_entries": 3,
+        "total_pages": 1,
+        "current_page": 1,
+        "per_page": 25,
+        "previous_page": -1,
+        "next_page": -1,
+        "order": "created_at",
+        "order_asc_desc": "asc"
+    }
+}
