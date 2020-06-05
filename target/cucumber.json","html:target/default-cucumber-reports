@@ -1,0 +1,84 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-06-05T03:53:03.663Z",
+        "line": 3,
+        "name": "As an authorized user I should be able to sell currency",
+        "description": "",
+        "id": "currency-trade;as-an-authorized-user-i-should-be-able-to-sell-currency",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 532121,
+              "status": "skipped"
+            },
+            "line": 4,
+            "name": "login with id and api_key then create an authentication token",
+            "match": {
+              "location": "TaskStepDefinition.login_with_id_and_api_key_then_create_an_authentication_token()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 17126,
+              "status": "skipped"
+            },
+            "line": 5,
+            "name": "user create a GBPUSD pair quote and check all currency balances",
+            "match": {
+              "location": "TaskStepDefinition.user_create_a_GBPUSD_pair_quote_and_check_all_currency_balances()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 9678,
+              "status": "skipped"
+            },
+            "line": 6,
+            "name": "user sell GBP and buy USD the sell side and verify the buy amount is correct to the rate",
+            "match": {
+              "location": "TaskStepDefinition.user_sell_GBP_and_buy_USD_the_sell_side_and_verify_the_buy_amount_is_correct_to_the_rate()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 8863,
+              "status": "skipped"
+            },
+            "line": 7,
+            "name": "user create second Quote the buy amount is wrong",
+            "match": {
+              "location": "TaskStepDefinition.user_create_second_Quote_the_buy_amount_is_wrong()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 8811,
+              "status": "skipped"
+            },
+            "line": 8,
+            "name": "end the API session",
+            "match": {
+              "location": "TaskStepDefinition.end_the_API_session()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Currency trade",
+    "description": "",
+    "id": "currency-trade",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/task.feature",
+    "tags": []
+  }
+]

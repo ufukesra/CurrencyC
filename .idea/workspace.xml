@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0d7ba10-8cab-460c-b161-ec653c3bd588" name="Default Changelist" comment="" />
+    <list default="true" id="b0d7ba10-8cab-460c-b161-ec653c3bd588" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/currencycloud/pages/CurrencyPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/currencycloud/pages/CurrencyPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/currencycloud/runner/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/currencycloud/runner/CukesRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/currencycloud/stepDefinitions/TaskStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/currencycloud/stepDefinitions/TaskStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/currencycloud/utilities/ConfigurationReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/currencycloud/utilities/ConfigurationReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/task.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/task.feature" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -15,6 +34,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1csh3xM1W21rv8se7F6CJSBK2LY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,7 +42,38 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="currencycloud.utilities" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CurrencyCloudTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="currencycloud.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="currencycloud.runner" />
+      <option name="MAIN_CLASS_NAME" value="currencycloud.runner.CukesRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CukesRunner" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -38,9 +89,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="320" y="101" width="813" height="666" key="#Project_Structure" timestamp="1591323948899">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="320" y="101" width="813" height="666" key="#Project_Structure/0.23.1440.822/-254.-1057.1920.1057@0.23.1440.822" timestamp="1591323948899" />
+    <state width="1398" height="316" key="GridCell.Tab.0.bottom" timestamp="1591329182365">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="316" key="GridCell.Tab.0.bottom/0.23.1440.822/-254.-1057.1920.1057@0.23.1440.822" timestamp="1591329182365" />
+    <state width="1398" height="442" key="GridCell.Tab.0.bottom/0.23.1440.877/-254.-1057.1920.1002@0.23.1440.877" timestamp="1591326353877" />
+    <state width="1398" height="316" key="GridCell.Tab.0.center" timestamp="1591329182364">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="316" key="GridCell.Tab.0.center/0.23.1440.822/-254.-1057.1920.1057@0.23.1440.822" timestamp="1591329182364" />
+    <state width="1398" height="442" key="GridCell.Tab.0.center/0.23.1440.877/-254.-1057.1920.1002@0.23.1440.877" timestamp="1591326353876" />
+    <state width="1398" height="316" key="GridCell.Tab.0.left" timestamp="1591329182364">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="316" key="GridCell.Tab.0.left/0.23.1440.822/-254.-1057.1920.1057@0.23.1440.822" timestamp="1591329182364" />
+    <state width="1398" height="442" key="GridCell.Tab.0.left/0.23.1440.877/-254.-1057.1920.1002@0.23.1440.877" timestamp="1591326353876" />
+    <state width="1398" height="316" key="GridCell.Tab.0.right" timestamp="1591329182365">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state width="1398" height="316" key="GridCell.Tab.0.right/0.23.1440.822/-254.-1057.1920.1057@0.23.1440.822" timestamp="1591329182365" />
+    <state width="1398" height="442" key="GridCell.Tab.0.right/0.23.1440.877/-254.-1057.1920.1002@0.23.1440.877" timestamp="1591326353877" />
     <state x="215" y="-917" key="SettingsEditor" timestamp="1591323234839">
       <screen x="-254" y="-1057" width="1920" height="1057" />
     </state>
     <state x="215" y="-917" key="SettingsEditor/0.23.1440.822/-254.-1057.1920.1057@-254.-1057.1920.1057" timestamp="1591323234839" />
+    <state x="374" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1591328466318">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="374" y="268" key="com.intellij.ide.util.TipDialog/0.23.1440.822/-254.-1057.1920.1057@0.23.1440.822" timestamp="1591328466318" />
   </component>
 </project>
