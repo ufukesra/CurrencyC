@@ -200,16 +200,17 @@ public class CurrencyPage  {
                         .queryParam("buy_currency","USD")
                         .queryParam("amount",ConfigurationReader.getProperty("sell_amount"))
                         .queryParam("fixed_side","sell")
-                        .header("X-Auth-Toke",token). // should be Token not Toke
+                        .header("X-Auth-Token",token). // should be Token not Toke
                         when()
-                        .get("/rates/detailed").prettyPeek();
+                        .get("/rates/detaile").prettyPeek();
 
-        assertEquals(200,response.getStatusCode());
-        assertEquals("application/json;charset=utf-8",response.contentType());
+        assertEquals(404,response.getStatusCode());  //source not found
+        assertEquals("application/json; charset=UTF-8",response.contentType());
 
+        assertEquals("resource_not_found",response.path("error_code"));
 
-        rate= response.jsonPath().getDouble("client_rate");
-        System.out.println("Rate: "+rate);
+        System.out.println(" Error code: "+response.path("error_code"));
+
     }
 
 

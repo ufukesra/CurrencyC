@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b0d7ba10-8cab-460c-b161-ec653c3bd588" name="Default Changelist" comment="CurrencyPage page created">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Quote_1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/balances" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/convert" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/token" afterDir="false" />
+    <list default="true" id="b0d7ba10-8cab-460c-b161-ec653c3bd588" name="Default Changelist" comment="README.md file modified">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/currencycloud/pages/CurrencyPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/currencycloud/pages/CurrencyPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/currencycloud/stepDefinitions/TaskStepDefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/currencycloud/stepDefinitions/TaskStepDefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/currencycloud/runner/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/currencycloud/runner/CukesRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.json&quot;,&quot;html:target/default-cucumber-reports" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json&quot;,&quot;html:target/default-cucumber-reports" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/currencycloud/pages/CurrencyPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/currencycloud/pages/CurrencyPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/currencycloud/runner/CukesRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/currencycloud/runner/CukesRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/currencycloud/stepDefinitions/TaskStepDefinition.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/currencycloud/stepDefinitions/TaskStepDefinition.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,8 +50,14 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/features" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="currencycloud.utilities" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/features" />
     </key>
   </component>
   <component name="RunManager">
@@ -94,46 +100,60 @@
       <option name="project" value="LOCAL" />
       <updated>1591345509670</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="stepDefinition and configFile modified and some files added">
+      <created>1591345944084</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591345944084</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="CurrencyPage page created" />
-    <option name="LAST_COMMIT_MESSAGE" value="CurrencyPage page created" />
+    <MESSAGE value="stepDefinition and configFile modified and some files added" />
+    <MESSAGE value="README.md file modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="README.md file modified" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="101" width="813" height="666" key="#Project_Structure" timestamp="1591323948899">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="320" y="101" width="813" height="666" key="#Project_Structure/0.23.1440.822/-254.-1057.1920.1057@0.23.1440.822" timestamp="1591323948899" />
-    <state x="335" y="39" key="CommitChangelistDialog2" timestamp="1591345535502">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state x="335" y="40" key="CommitChangelistDialog2" timestamp="1591347303240">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="335" y="39" key="CommitChangelistDialog2/0.23.1440.822/-254.-1057.1920.1057@0.23.1440.822" timestamp="1591345535502" />
-    <state width="1398" height="268" key="GridCell.Tab.0.bottom" timestamp="1591345515737">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state x="335" y="40" key="CommitChangelistDialog2/0.23.1440.877/-254.-1057.1920.1002@0.23.1440.877" timestamp="1591347303240" />
+    <state width="1398" height="236" key="GridCell.Tab.0.bottom" timestamp="1591347313774">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="268" key="GridCell.Tab.0.bottom/0.23.1440.822/-254.-1057.1920.1057@0.23.1440.822" timestamp="1591345515737" />
-    <state width="1398" height="442" key="GridCell.Tab.0.bottom/0.23.1440.877/-254.-1057.1920.1002@0.23.1440.877" timestamp="1591326353877" />
-    <state width="1398" height="268" key="GridCell.Tab.0.center" timestamp="1591345515736">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1398" height="236" key="GridCell.Tab.0.bottom/0.23.1440.877/-254.-1057.1920.1002@0.23.1440.877" timestamp="1591347313774" />
+    <state width="1398" height="236" key="GridCell.Tab.0.center" timestamp="1591347313774">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="268" key="GridCell.Tab.0.center/0.23.1440.822/-254.-1057.1920.1057@0.23.1440.822" timestamp="1591345515736" />
-    <state width="1398" height="442" key="GridCell.Tab.0.center/0.23.1440.877/-254.-1057.1920.1002@0.23.1440.877" timestamp="1591326353876" />
-    <state width="1398" height="268" key="GridCell.Tab.0.left" timestamp="1591345515735">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1398" height="236" key="GridCell.Tab.0.center/0.23.1440.877/-254.-1057.1920.1002@0.23.1440.877" timestamp="1591347313774" />
+    <state width="1398" height="236" key="GridCell.Tab.0.left" timestamp="1591347313773">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="268" key="GridCell.Tab.0.left/0.23.1440.822/-254.-1057.1920.1057@0.23.1440.822" timestamp="1591345515735" />
-    <state width="1398" height="442" key="GridCell.Tab.0.left/0.23.1440.877/-254.-1057.1920.1002@0.23.1440.877" timestamp="1591326353876" />
-    <state width="1398" height="268" key="GridCell.Tab.0.right" timestamp="1591345515736">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1398" height="236" key="GridCell.Tab.0.left/0.23.1440.877/-254.-1057.1920.1002@0.23.1440.877" timestamp="1591347313773" />
+    <state width="1398" height="236" key="GridCell.Tab.0.right" timestamp="1591347313774">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="268" key="GridCell.Tab.0.right/0.23.1440.822/-254.-1057.1920.1057@0.23.1440.822" timestamp="1591345515736" />
-    <state width="1398" height="442" key="GridCell.Tab.0.right/0.23.1440.877/-254.-1057.1920.1002@0.23.1440.877" timestamp="1591326353877" />
+    <state width="1398" height="236" key="GridCell.Tab.0.right/0.23.1440.877/-254.-1057.1920.1002@0.23.1440.877" timestamp="1591347313774" />
     <state x="215" y="-917" key="SettingsEditor" timestamp="1591323234839">
       <screen x="-254" y="-1057" width="1920" height="1057" />
     </state>
     <state x="215" y="-917" key="SettingsEditor/0.23.1440.822/-254.-1057.1920.1057@-254.-1057.1920.1057" timestamp="1591323234839" />
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2" timestamp="1591345976980">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="175" key="Vcs.Push.Dialog.v2/0.23.1440.877/-254.-1057.1920.1002@0.23.1440.877" timestamp="1591345976980" />
     <state x="374" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1591328466318">
       <screen x="0" y="23" width="1440" height="822" />
     </state>

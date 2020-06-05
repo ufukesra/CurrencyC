@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
         plugin = {"json:target/cucumber.json\",\"html:target/default-cucumber-reports"},
         features = {"src/test/resources/features/task.feature"},
         glue = {"currencycloud/stepDefinitions"},
-        dryRun = true
+        dryRun = false
 )
 
 

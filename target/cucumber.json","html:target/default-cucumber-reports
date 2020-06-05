@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2020-06-05T03:53:03.663Z",
+        "start_timestamp": "2020-06-05T08:55:15.184Z",
         "line": 3,
         "name": "As an authorized user I should be able to sell currency",
         "description": "",
@@ -13,8 +13,8 @@
         "steps": [
           {
             "result": {
-              "duration": 532121,
-              "status": "skipped"
+              "duration": 5133383199,
+              "status": "passed"
             },
             "line": 4,
             "name": "login with id and api_key then create an authentication token",
@@ -25,8 +25,8 @@
           },
           {
             "result": {
-              "duration": 17126,
-              "status": "skipped"
+              "duration": 4426549049,
+              "status": "passed"
             },
             "line": 5,
             "name": "user create a GBPUSD pair quote and check all currency balances",
@@ -37,8 +37,8 @@
           },
           {
             "result": {
-              "duration": 9678,
-              "status": "skipped"
+              "duration": 2554414973,
+              "status": "passed"
             },
             "line": 6,
             "name": "user sell GBP and buy USD the sell side and verify the buy amount is correct to the rate",
@@ -49,8 +49,8 @@
           },
           {
             "result": {
-              "duration": 8863,
-              "status": "skipped"
+              "duration": 1933160485,
+              "status": "passed"
             },
             "line": 7,
             "name": "user create second Quote the buy amount is wrong",
@@ -61,8 +61,8 @@
           },
           {
             "result": {
-              "duration": 8811,
-              "status": "skipped"
+              "duration": 188740,
+              "status": "passed"
             },
             "line": 8,
             "name": "end the API session",
